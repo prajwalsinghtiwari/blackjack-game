@@ -1,0 +1,25 @@
+body {
+    background-image:url("bg.jpg");
+    background-size: cover;
+    color:white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+ h1 {
+    color:gold;
+ }
+
+ button{
+    background-color: gold;
+    width: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    font-size: 30px;
+    border-radius: 5px;
+    color: green;
+    border: none;
+    margin-bottom: 2px;
+    margin: top 2px;
+ }
